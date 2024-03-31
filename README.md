@@ -12,9 +12,7 @@ https://www.weatherapi.com/ as Weather Forecast Provider
 
 On initial start GPS and Internet must be ON and permission granted.  
 
-<img src="./assets/main_screen.png" width="200">
-<img src="./assets/foreground_service.png" width="200">
-<img src="./assets/activity.png" width="200">
+<img src="./assets/main_screen.png" width="200"> <img src="./assets/foreground_service.png" width="200"> <img src="./assets/activity.png" width="200">
 
 
 [1]: <https://kassaev.com/media/weatherWidget.apk>
